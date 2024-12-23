@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Reshan+Gayantha!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kasun+Sanjeewa!;" />
 </h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology |  Tech Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | UI/UX Designer |  Tech Enthusiast</h3>
 
 <div align="center"> 
 
-  [![](https://visitcount.itsvg.in/api?id=reshangayantha9&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Kasun-Sanjeewa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 </div>
@@ -14,11 +14,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning JavaScript
 
-- 👨‍💻 All of my projects are available at [https://reshangayantha.netlify.app/](https://reshangayantha.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kasunsanjeewa.vercel.app/](https://kasunsanjeewa.vercel.app/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JavaScript**
 </td>
 <td width="50%" align="center">
 
@@ -45,13 +45,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=reshangayantha9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kasun-Sanjeewa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reshangayantha9&theme=tokyonight&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Sanjeewa&theme=tokyonight&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=reshangayantha9&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kasun-Sanjeewa&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   
   </td>
@@ -62,16 +62,16 @@
 
 <h3 align="left">GitHub Trophies:</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=reshangayantha9&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kasun-Sanjeewa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/reshangayantha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reshangayantha/" height="30" width="40" /></a>
-<a href="https://web.facebook.com/reshan.gayantha.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/reshan.gayantha.7/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/reshangayantha9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/reshangayantha9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kasun-sanjeewa-200152277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasun-sanjeewa-200152277/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kasun.sanjeewa.7543653?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kasun.sanjeewa.7543653?mibextid=ZbWKwL" height="30" width="40" /></a>
+
 </p>
 <br/>
 <hr/>
