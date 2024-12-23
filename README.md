@@ -46,13 +46,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kasun3865&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kasun-Sanjeewa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kasun3865&theme=tokyonight&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Sanjeewa&theme=tokyonight&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kasun3865&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kasun-Sanjeewa&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   
   </td>
@@ -63,7 +63,7 @@
 
 <h3 align="left">GitHub Trophies:</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=Kasun3865&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kasun-Sanjeewa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
 <hr/>
