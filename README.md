@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kasun+Sanjeewa!;" />
 </h1>
 
-<h3 align="center">Full Stack Web Developer | UI/UX Designer | Graphic Designer |  Tech Enthusiast</h3>
+<h3 align="center">Trainee Software Engineer | UI/UX Designer | Graphic Designer |  Tech Enthusiast</h3>
 
 <div align="center"> 
 
